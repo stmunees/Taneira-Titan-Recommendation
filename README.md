@@ -7,7 +7,7 @@ A Custom Convolutional Neural Network Architecture based Recommendation System f
 The dataset (images of sarees, SKU details, and attributes file) are proprietary data of Titan Company Limited, and therefore have been ommited from this project repository. They have also been removed from the results images as discussed below.
 
 ## Objective
-- To design a deep learning model to recognise patterns in [sarees](https://en.wikipedia.org/wiki/Sari#cite_note-2).
+- To design a deep learning model to recognise patterns in [sarees](https://en.wikipedia.org/wiki/Sari).
 - By recognising patterns in sarees the model should be able to deliver similar sarees from database, which can be used in various use cases.
 
 ## Approach
